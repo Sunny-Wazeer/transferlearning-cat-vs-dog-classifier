@@ -61,6 +61,4 @@ prediction = class_names[output.argmax()]
 - Use more data augmentations
 - Deploy as a web app using Gradio or Flask
 
-## 📜 License
 
-MIT License
